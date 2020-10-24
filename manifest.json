@@ -1,0 +1,23 @@
+{
+    "name": "Choir Digital Media",
+    "short_name": "CDM",
+    "description": "Aplikasi Website Penawaran Jasa",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+     "icons": [
+    {
+      "src": "/gambar/logo-cdm-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/gambar/logo-cdm-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
